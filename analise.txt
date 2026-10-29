@@ -1,0 +1,34 @@
+Referência: 2026-10-22. Pagamentos de 2026 por data de pagamento.
+
+Cidade | UF | Pagamentos | Pagos com mais de 30 dias | Mediana liquidação→pagamento (dias) | Furaram a fila (≥7 dias) | Fila agora | Mediana de espera na fila (dias)
+MARINGA | PR | 30343 | 0% | 6 | 25.7% | 469 (R$ 9.293.529) | 8
+IBIPORA | PR | 9961 | 2% | 3 | 42.0% | 177 (R$ 4.317.054) | 2
+SAO MATEUS DO SUL | PR | 6800 | 0% | 1 | 8.2% | 45 (R$ 189.146) | 1
+CIANORTE | PR | 6232 | 0% | 6 | 5.4% | 471 (R$ 6.359.049) | 3
+PITANGA | PR | 5745 | 0% | 1 | 8.7% | 139 (R$ 2.063.591) | 2
+IVAIPORA | PR | 5546 | 1% | 3 | 20.1% | 256 (R$ 742.448) | 3
+CAMPINA GRANDE DO SUL | PR | 5360 | 0% | 4 | 1.2% | 209 (R$ 3.676.989) | 2
+GODOY MOREIRA | PR | 3051 | 0% | 1 | 1.9% | 50 (R$ 309.120) | 1
+IRATI | PR | 2655 | 18% | 9 | 30.4% | 404 (R$ 3.665.494) | 6
+MEDIANEIRA | PR | 1835 | 0% | 2 | 28.2% | 123 (R$ 1.397.767) | 1
+JANDAIA DO SUL | PR | 1635 | 0% | 1 | 5.6% | 90 (R$ 787.398) | 2
+SAO MIGUEL DO IGUACU | PR | 1513 | 0% | 3 | 0.0% | 113 (R$ 993.181) | 1
+ANGULO | PR | 1461 | 9% | 5 | 40.5% | 265 (R$ 501.811) | 24
+MATELANDIA | PR | 1045 | 0% | 2 | 8.8% | 291 (R$ 1.364.041) | 2
+VILHENA | RO | 847 | 0% | 0 | 1.1% | 10 (R$ 944.292) | 0
+MANDAGUARI | PR | 819 | 0% | 1 | 0.1% | 52 (R$ 176.755) | 1.5
+SARANDI | PR | 568 | 0% | 3 | 11.8% | 163 (R$ 4.236.715) | 3
+NOVA ESPERANCA | PR | 374 | 1% | 1 | 10.7% | 335 (R$ 1.603.007) | 9
+ASTORGA | PR | 351 | 0% | 1 | 0.3% | 158 (R$ 619.547) | 3
+ROLIM DE MOURA | RO | 218 | 7% | 9 | 5.0% | 191 (R$ 1.912.486) | 22
+MARIALVA | PR | 44 | 7% | 5 | 0.0% | 284 (R$ 2.656.324) | 8
+ENGENHEIRO BELTRAO | PR | 40 | 30% | 13.5 | 12.5% | 13 (R$ 293.545) | 143
+
+GERAL
+Pagamentos: 86443 (R$ 1.819.149.723); com vencimento informado: 86443
+Pagos mais de 30 dias depois da liquidação: 1035 (1.2%), somando R$ 21.825.455
+Liquidação→pagamento: mediana 4 dias, média 5.4, 90% até 11, 99% até 34 dias
+Furaram a fila: 34.2% com folga de 1 dia; 19.5% com folga de 7 dias (R$ 221.218.577)
+Passados para trás (≥7 dias): 4.2% dos pagamentos
+Fila parada agora: 4308 notas (R$ 48.103.290); espera mediana 3 dias; com mais de 60 dias: 158
+Credores distintos: 4139 (3866 CNPJ, 272 CPF); CNPJs com algum pagamento >30 dias após a liquidação: 188

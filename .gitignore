@@ -1,0 +1,5 @@
+dados/
+credores.json
+porte-cache.json
+*.log
+node_modules/
